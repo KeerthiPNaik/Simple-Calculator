@@ -11,6 +11,7 @@ It can perform standard arithmetic operations like addition, subtraction, multip
   - Subtraction (−)
   - Multiplication (×)
   - Division (÷)
+  - Modulus (%)
 - Clear (`AC`) and Delete (`DEL`) buttons
 
 
