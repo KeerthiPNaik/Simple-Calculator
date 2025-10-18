@@ -15,6 +15,11 @@ It can perform standard arithmetic operations like addition, subtraction, multip
 - Clear (`AC`) and Delete (`DEL`) buttons
 
 
+## Live Demo
+
+[Simple Calculator Live](https://KeerthiPNaik.github.io/Simple-Calculator/)
+
+
 ## How to Use
 
 1. Clone the repository:
@@ -23,3 +28,6 @@ It can perform standard arithmetic operations like addition, subtraction, multip
 2. Open index.html in your browser
 
 3. Start calculating!
+
+
+
